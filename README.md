@@ -8,28 +8,28 @@ Este repositório foi criado para explorar e testar diferentes modelos e técnic
 ## 📋 Algoritmos e Técnicas Abordados
 
 - **K-Nearest Neighbors (KNN)**
-  - [[Espaço para resumo sobre KNN](https://1drv.ms/w/s!AiQzqZxrjP08iMsfURH3Jw0pkMsDMw?e=lcHec3)]
+  - [[Resumo sobre KNN](https://1drv.ms/w/s!AiQzqZxrjP08iMsfURH3Jw0pkMsDMw?e=lcHec3)]
 
 - **Naive Bayes**
-  - [[Espaço para resumo sobre Naive Bayes](https://1drv.ms/w/s!AiQzqZxrjP08iMsfURH3Jw0pkMsDMw?e=lcHec3)]
+  - [[Resumo sobre Naive Bayes](https://1drv.ms/w/s!AiQzqZxrjP08iMsfURH3Jw0pkMsDMw?e=lcHec3)]
 
 - **Regressão Linear**
-  - [[Espaço para resumo sobre Regressão Linear](https://1drv.ms/w/s!AiQzqZxrjP08h4V7usq4Vrj1gaR1Hw?e=kUqBQb)]
+  - [[Resumo sobre Regressão Linear](https://1drv.ms/w/s!AiQzqZxrjP08h4V7usq4Vrj1gaR1Hw?e=kUqBQb)]
 
 - **Regressão Logística**
-  - [[Espaço para resumo sobre Regressão Logística](https://1drv.ms/w/s!AiQzqZxrjP08iKxJO5W3TkMaGCt76A?e=KsYwKM)]
+  - [[Resumo sobre Regressão Logística](https://1drv.ms/w/s!AiQzqZxrjP08iKxJO5W3TkMaGCt76A?e=KsYwKM)]
 
 - **Análise de Correlação**
-  - [[Espaço para resumo sobre Análise de Correlaçã](https://1drv.ms/w/s!AiQzqZxrjP08h4NaMJQOaZTTnGgWLQ?e=2e6jER)o]
+  - [[Resumo sobre Análise de Correlaçã](https://1drv.ms/w/s!AiQzqZxrjP08h4NaMJQOaZTTnGgWLQ?e=2e6jER)o]
 
 - **Matriz de Confusão**
-  - [[Espaço para resumo sobre Matrizes de Confusão](https://1drv.ms/w/s!AiQzqZxrjP08h4NaMJQOaZTTnGgWLQ?e=2e6jER)]
+  - [[Resumo sobre Matrizes de Confusão](https://1drv.ms/w/s!AiQzqZxrjP08h4NaMJQOaZTTnGgWLQ?e=2e6jER)]
 
 - **Árvores de Decisão**
-  - [[Espaço para resumo sobre Árvores de Decisão](https://1drv.ms/w/s!AiQzqZxrjP08iMsfURH3Jw0pkMsDMw?e=EapcqP)]
+  - [[Resumo sobre Árvores de Decisão](https://1drv.ms/w/s!AiQzqZxrjP08iMsfURH3Jw0pkMsDMw?e=EapcqP)]
 
 - **Feature Selection**
-  - [[Espaço para resumo sobre Árvores de Decisão](https://1drv.ms/w/s!AiQzqZxrjP08iNd0qETkaVWJjSwqRQ?e=0HzBqr)]
+  - [[Resumo sobre Árvores de Decisão](https://1drv.ms/w/s!AiQzqZxrjP08iNd0qETkaVWJjSwqRQ?e=0HzBqr)]
  
   - 
 ## 🛠️ Ferramentas Utilizadas
